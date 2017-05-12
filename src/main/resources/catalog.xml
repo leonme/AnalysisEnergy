@@ -1,0 +1,5 @@
+<ComponentCatalog>
+    <Category Name="Custom Action" Description="Custom Action for POC">
+        <Component Type="Action" Name="AnalysisEnergyAction" Description="Custom Action to build output XML" Label="Analysis Energy" ClassName="com.sap.mii.custom.action.AnalysisEnergyAction" AssemblyName="AnalysisEnergyAction.jar" HelpFileName="" />
+    </Category>
+</ComponentCatalog>
